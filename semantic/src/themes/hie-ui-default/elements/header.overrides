@@ -1,0 +1,7 @@
+/*******************************
+         Theme Overrides
+*******************************/
+
+@fontWeight: @normal;
+
+@textColor      :#008fcd;

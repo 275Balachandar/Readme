@@ -1,0 +1,14 @@
+/*******************************
+         Theme Overrides
+*******************************/
+
+
+@invertedBackground:#f8f8f8;
+@invertedBoxShadow:2px 0 2px 0 rgba(0, 0, 0, 0.11);
+@invertedItemTextColor:#42809d;
+@invertedHoverBackground:#E8E8E8;
+@invertedHoverColor:#42809d;
+@invertedHoverFontFamily: Lato;;
+@invertedHoverFontWeight: bold;
+@invertedMenuPressedBackground:#42809d;
+@iconMenuItemColor: #ffffff;
